@@ -1,4 +1,4 @@
-[![MasterHead]("readmegif.gif")]
+[![MasterHead]("/readmegif.gif")]
 <h1 align="center">Hi 👋, I'm Mohammed Altaf</h1>
 <h3 align="center">I'm a mechanical engineer🛠 with a passion for exploring the intersection of machine learning 🤖 and deep learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
