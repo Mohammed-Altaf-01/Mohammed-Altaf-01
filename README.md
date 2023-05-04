@@ -1,4 +1,5 @@
-[![MasterHead]("/readmegif.gif")]
+<img align="center" src="readmegif.gif" >
+
 <h1 align="center">Hi 👋, I'm Mohammed Altaf</h1>
 <h3 align="center">I'm a mechanical engineer🛠 with a passion for exploring the intersection of machine learning 🤖 and deep learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,21 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-altaf-01" alt="mohammed-altaf-01" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@mohammedaltaf4316](https://medium.com/@mohammedaltaf4316)
-
 - 📫 How to reach me **mohammedaltaf4316@gmail.com**
 
 - ⚡ Fun fact **I think I talk a lot 😁 and watch anime all the time ❟❛❟**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed altaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed altaf" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohammed_altaf321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammed_altaf321" height="30" width="40" /></a>
-<a href="https://medium.com/@mohammedaltaf4316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammedaltaf4316" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohammedaltaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammedaltaf" height="30" width="40" /></a>
 </p>
 
