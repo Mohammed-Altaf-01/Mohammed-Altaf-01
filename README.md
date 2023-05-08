@@ -1,4 +1,4 @@
-[![MasterHead]("/readmegif.gif")]
+<img align="center" src="readmegif.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammed Altaf</h1>
 <h3 align="center">I'm a mechanical engineer🛠 with a passion for exploring the intersection of machine learning 🤖 and deep learning.</h3>
@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-altaf-01&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-altaf-01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-altaf-01" alt="mohammed-altaf-01" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@mohammedaltaf4316](https://medium.com/@mohammedaltaf4316)
 
 - 📫 How to reach me **mohammedaltaf4316@gmail.com**
 
